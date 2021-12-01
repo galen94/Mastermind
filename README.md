@@ -1,6 +1,6 @@
 # Mastermind
 The Mastermind game created with Python and the Turtle library.
 
-Check out the Mastermind demo!
+Watch a Mastermind demo below:
 
 https://youtu.be/GfKNioCWfE8
